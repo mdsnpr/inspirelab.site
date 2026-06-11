@@ -17,4 +17,3 @@ links:
   # cv: 
   # faculty-page: 
 ---
-Jacob is a senior at the University of Maryland studying Computer Science and Mathematics. He’s interested in using machine learning and mathematical methods to analyze neural data like EEG and fMRI, with a focus on understanding spatio-temporal nonstationary patterns in the brain. He has worked on EEG-based dementia classification and is also exploring mathematical modeling in epidemiology. Outside of research, Jacob enjoys bowling, cooking, and meditation.
